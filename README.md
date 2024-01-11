@@ -1,0 +1,1 @@
+Ce cours est composé d'une série de 6 lives d'une heure, à la fin de la session nous devrions avoir recoder un "petit" tamagotchi. Durant ces lives nous allons faire uniquement du javascript,
