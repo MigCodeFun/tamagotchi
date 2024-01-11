@@ -1,1 +1,2 @@
-Ce cours est composé d'une série de 6 lives d'une heure, à la fin de la session nous devrions avoir recoder un "petit" tamagotchi. Durant ces lives nous allons faire uniquement du javascript,
+Pendant le cours, composé de six sessions d'une heure chacune, l'objectif est de coder un "petit" tamagotchi en utilisant exclusivement JavaScript.
+avec le  live de charline-studi
